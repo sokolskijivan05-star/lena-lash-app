@@ -1,0 +1,25 @@
+{
+    "name": "Lena Lash & Brow",
+    "short_name": "Lena Lash",
+    "description": "Запись на брови и ресницы в студию «До и После»",
+    "start_url": "/lena-lash-app/",
+    "scope": "/lena-lash-app/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#ffe0ec",
+    "theme_color": "#c2185b",
+    "icons": [
+    {
+    "src": "/lena-lash-app/icon-192.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg",
+    "purpose": "any maskable"
+    },
+    {
+    "src": "/lena-lash-app/icon-512.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg",
+    "purpose": "any maskable"
+    }
+    ]
+    }
