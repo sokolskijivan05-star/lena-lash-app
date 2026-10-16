@@ -1,7 +1,7 @@
 {
     "name": "Lena Lash & Brow",
     "short_name": "Lena Lash",
-    "description": "Запись на брови и ресницы в студию «До и После»",
+    "description": "Запись на брови и ресницы в студию До и После",
     "start_url": "/lena-lash-app/",
     "scope": "/lena-lash-app/",
     "display": "standalone",
